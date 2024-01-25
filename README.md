@@ -33,39 +33,39 @@ To pay the rent I'm currently working freelance/contract as a (they don't usuall
 <details><summary>## What I know (and want to know):</summary> 
 ### languages
 #### markups
-- Markdown ✔ (esp the Obsidian flavor, but I work with it too, so)
-- HTML and XHTML: ✔
-	- legitimate question: does anyone even *use* XHTML? I remember when I was first learning web design in *mumblemumbleaughts* the course instructor was very *this is the future* yeah nah 
-- Wikitext of various flavors ✔ 
-- CSS ❓
-	- let's call this "four years of high school spanish" fluency: can read, can write \[make adjustments], speaking \[eg writing from scratch] ... not so much
-	- I'm currently trying to learn this more fluently 
-- JSON ⁉
-  - I can and have edited a JSON file, situationally, without screwing it up??? i think this is the "where's the bathroom/i speak english" immersion level
+- Markdown ✔ (esp the Obsidian flavor, but I work with it too, so)  
+- HTML and XHTML: ✔   
+	- legitimate question: does anyone even *use* XHTML? I remember when I was first learning web design in *mumblemumbleaughts* the course instructor was very *this is the future* yeah nah   
+- Wikitext of various flavors ✔   
+- CSS ❓  
+	- let's call this "four years of high school spanish" fluency: can read, can write \[make adjustments], speaking \[eg writing from scratch] ... not so much  
+	- I'm currently trying to learn this more fluently   
+- JSON ⁉  
+  - I can and have edited a JSON file, situationally, without screwing it up??? i think this is the "where's the bathroom/i speak english" immersion level  
+  
+#### programming  
+- SQL ✔ just basics, but i have a shiny certificate and all that  
+	- my household got into an es-cue-ell vs sequel argument (I say S Q L) before I even knew that was a thing and then we hit Wikipedia  
+	- I enjoy the reason it's historically referred to as "Sequel". I still say SQL.     
+		- So how do *you* say it?  
+- Python 📚 currently learning  
+- nothing else well. JavaScript's my next one.  
+	- Tho technically since I'm using the Obsidian Dataview plugin, and some others, I'm getting a crashcourse in Javascript here and there      
+	- (and also DQL and whatever other -QLs people choose to use; plus some Handlebar/Moustache/etc.  
+		- SQL made adapting to queries pretty easy: do recommend)  
 
-#### programming
-- SQL ✔ just basics, but i have a shiny certificate and all that
-	- my household got into an es-cue-ell vs sequel argument (I say S Q L) before I even knew that was a thing and then we hit Wikipedia
-	- I enjoy the reason it's historically referred to as "Sequel". I still say SQL.   
-		- So how do *you* say it?
-- Python 📚 currently learning
-- nothing else well. JavaScript's my next one.
-	- Tho technically since I'm using the Obsidian Dataview plugin, and some others, I'm getting a crashcourse in Javascript here and there    
-	- (and also DQL and whatever other -QLs people choose to use; plus some Handlebar/Moustache/etc.
-		- SQL made adapting to queries pretty easy: do recommend)
-
-#### uh, spoken?
-- in which I'm being silly 
-- ASL 📚 currently learning and would love love love anyone to sign with! 
-- English ✔ born into this bizarre language
-- Spanish ❓ in the exact way mentioned above
-	- somehow, I managed to translate *Don Quixote* into English in HS but can't have a fluent conversation?!
-	- I can eavesdrop pretty accurately though so maybe it's just confidence
-- French ❓ more recently studied and therefore slightly better pronounced, but with a smaller vocabulary
-	- I would really like to master French tbh 
-- German ❌
-	- ...tbf I have a great grasp on the *theory* of German, but I doubt I could remember much.
-		- if you are seriously depressed, have weirdly escalating epilepsy, and undiagnosed (not that I ...knew) ADHD: take a year off
-- not a spoken language but I'm also learning Morse Code! for funsies! will probably *never* master that one
-- I can read music fluently?? 
+#### uh, spoken?  
+- in which I'm being silly   
+- ASL 📚 currently learning and would love love love anyone to sign with!   
+- English ✔ born into this bizarre language  
+- Spanish ❓ in the exact way mentioned above  
+	- somehow, I managed to translate *Don Quixote* into English in HS but can't have a fluent conversation?!  
+	- I can eavesdrop pretty accurately though so maybe it's just confidence  
+- French ❓ more recently studied and therefore slightly better pronounced, but with a smaller vocabulary  
+	- I would really like to master French tbh   
+- German ❌  
+	- ...tbf I have a great grasp on the *theory* of German, but I doubt I could remember much.  
+		- if you are seriously depressed, have weirdly escalating epilepsy, and undiagnosed (not that I ...knew) ADHD: take a year off  
+- not a spoken language but I'm also learning Morse Code! for funsies! will probably *never* master that one  
+- I can read music fluently??   
 </details>
