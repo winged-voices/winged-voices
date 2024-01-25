@@ -30,18 +30,19 @@ To pay the rent I'm currently working freelance/contract as a (they don't usuall
 
 --- 
 
-<details><summary>## What I know (and want to know):</summary> 
-### languages
-#### markups
-- Markdown ✔ (esp the Obsidian flavor, but I work with it too, so)  
-- HTML and XHTML: ✔   
-	- legitimate question: does anyone even *use* XHTML? I remember when I was first learning web design in *mumblemumbleaughts* the course instructor was very *this is the future* yeah nah   
-- Wikitext of various flavors ✔   
-- CSS ❓  
-	- let's call this "four years of high school spanish" fluency: can read, can write \[make adjustments], speaking \[eg writing from scratch] ... not so much  
-	- I'm currently trying to learn this more fluently   
-- JSON ⁉  
-  - I can and have edited a JSON file, situationally, without screwing it up??? i think this is the "where's the bathroom/i speak english" immersion level  
+<details>
+<summary>## What I know (and want to know):</summary> 
+### languages  
+#### markups  
+- Markdown ✔ (esp the Obsidian flavor, but I work with it too, so)    
+- HTML and XHTML: ✔     
+	- legitimate question: does anyone even *use* XHTML? I remember when I was first learning web design in *mumblemumbleaughts* the course instructor was very *this is the future* yeah nah     
+- Wikitext of various flavors ✔     
+- CSS ❓    
+	- let's call this "four years of high school spanish" fluency: can read, can write \[make adjustments], speaking \[eg writing from scratch] ... not so much    
+	- I'm currently trying to learn this more fluently     
+- JSON ⁉    
+  - I can and have edited a JSON file, situationally, without screwing it up??? i think this is the "where's the bathroom/i speak english" immersion level    
   
 #### programming  
 - SQL ✔ just basics, but i have a shiny certificate and all that  
