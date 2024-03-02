@@ -45,6 +45,7 @@ To pay the rent I'm currently working freelance/contract as a (they don't usuall
 - JSON ⁉    
 	- I can and have edited a JSON file, situationally, without screwing it up??? (work. customer service!)
  	- i think this is the "where's the bathroom / i speak english" level of dropped-in immersion
+
 <small>(also, XML: which I also use at work, but I feel like XML is kind of cheater markup if you're the one defining the tags. Yes, I can follow my own rules in such a way that a computer knows the difference between two things, I guess? Which is, I guess, sort of all code is, but. It's like saying I speak my own conlang well. Yes, it has phonemes and grammatical structures I didn't invent but I didn't have to learn it.)</small>     
   
 #### programming  
