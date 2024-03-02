@@ -40,30 +40,29 @@ To pay the rent I'm currently working freelance/contract as a (they don't usuall
 	- legitimate question: does anyone even *use* XHTML? I remember when I was first learning web design the course instructor was very *this is the future* yeah nah     
 - Wikitext of various flavors ✔     
 - CSS ❓    
-	- let's call this "four years of high school spanish" fluency: can read, can write \[make adjustments], speaking \[eg writing from scratch] ... not so much    
-	- I'm currently trying to learn this more fluently     
+	- let's call this "four years of high school spanish" fluency: can read, can write\[make adjustments to existing CSS or use reference to compose], speaking\[ie writing from scratch or memory]... not so much    
+	- I'm currently trying to learn this more fl     
 - JSON ⁉    
 	- I can and have edited a JSON file, situationally, without screwing it up??? (work. customer service!)
- 	- i think this is the "where's the bathroom / i speak english" level of dropped-in immersion    
+ 	- i think this is the "where's the bathroom / i speak english" level of dropped-in immersion
+<small>(also, XML: which I also use at work, but I feel like XML is kind of cheater markup if you're the one defining the tags. Yes, I can follow my own rules in such a way that a computer knows the difference between two things, I guess? Which is, I guess, sort of all code is, but. It's like saying I speak my own conlang well. Yes, it has phonemes and grammatical structures I didn't invent but I didn't have to learn it.)</small>     
   
 #### programming  
-
 - SQL ✔ just basics, but i have a shiny certificate and all that  
 	- my household got into an es-cue-ell vs sequel argument (I say S Q L) before I even knew that was a thing and then we hit Wikipedia  
 	- I enjoy the reason it's historically referred to as "Sequel". I still say SQL.     
 		- So how do *you* say it?  
 - Python 📚 currently learning  
-- nothing else well. JavaScript's my next one to *study*.  
-	- Tho technically since I'm using the Obsidian Dataview plugin, and some others, I'm getting a crashcourse in Javascript here and there      
-	- (and also DQL and whatever other -QLs people choose to use; plus some Handlebar/Moustache/etc.  
-		- SQL made adapting to queries pretty easy: do recommend)  
+- JavaScript's my ~~next one~~ *oops apparently I'm at least teaching myself JS at a basic level because I got too interested in integrating Spotify in a new way and now I have a slow-burning project idea* 
+	- Tho *tech*nically since I'm using the Obsidian Dataview plugin, and some others, I'm getting a crashcourse in Javascript here and there      
+		- (and also DQL and whatever other -QLs people choose to use; plus some Handlebar/Moustache/etc.  
+		- SQL made adapting to all other query languages pretty easy: do recommend)  
 
-#### uh, spoken?  
-- (in which I'm being silly)   
+#### uh, spoken?  (in which I'm being silly)   
 - ASL 📚 currently learning
-	- and would love love love anyone to sign with!   
+	- and would love love love anyone to sign with! HMU!   
 - English ✔ born into this bizarre language  
-- Spanish ❓ in the exact way mentioned above  
+- Spanish ❓ in the exact way mentioned in the CSS section  
 	- somehow, I managed to translate *Don Quixote* into English in HS but can't have a fluent conversation?!  
 	- I can eavesdrop pretty accurately though so maybe it's just confidence  
 - French ❓ more recently studied and therefore slightly better pronounced, but with a smaller vocabulary  
@@ -71,7 +70,7 @@ To pay the rent I'm currently working freelance/contract as a (they don't usuall
  	- weird but true: if you have trouble with your Rs in English as a little kid, maybe you will do better with French Rs: I do!
 - Welsh  ⁉
 	- keep trying to learn it, I love it, I love the history, have never committed well enough.
- 	- this is not a romance language. OR a germanic language. and that's beautiful but DAMN.   
+ 	- this is not a romance language. OR a germanic language. and that's beautiful. but DAMN.   
 - German ❌  
 	- ...tbf I retained a great grasp on the *theory* of German, but I doubt I could remember much vocab.  
 		- if you are seriously depressed, have weirdly escalating epilepsy, and undiagnosed (not that I ...knew) ADHD: take a year off  
