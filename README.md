@@ -19,8 +19,8 @@ I also write 🖥, play ttrpgs 🎲 (and ~~tt~~rpgs📄), read a lot of articles
 I like to draw and make 3-D art but I've kind of accepted that I'm not great at it. Still, I do want to practice more.
 I have ADHD that impressed the neuropsych examiner; also epilepsy and migraines, basically fυсκ<sup>★</sup> my brain
 
-<sup>★</sup><small>I was trying to censor myself without censoring myself here, but never do this for any real length of time.
-The unicode, I mean. Please don't do it for fancy display names and stuff. Screen readers can't figure it out, and it's not polite to use characters from other languages to look like English.</small>
+<sup>★</sup><sub>I was trying to censor myself without censoring myself here, but never do this for any real length of time.
+The unicode, I mean. Please don't do it for fancy display names and stuff. Screen readers can't figure it out, and it's not polite to use characters from other languages to look like English.</sub>
 
 Ahem. One of my other passions is championing disability rights! In life, in code, and in writing/roleplay. 
 
@@ -46,7 +46,7 @@ To pay the rent I'm currently working freelance/contract as a (they don't usuall
 	- I can and have edited a JSON file, situationally, without screwing it up??? (work. customer service!)
  	- i think this is the "where's the bathroom / i speak english" level of dropped-in immersion
 
-<small>(also, XML: which I also use at work, but I feel like XML is kind of cheater markup if you're the one defining the tags. Yes, I can follow my own rules in such a way that a computer knows the difference between two things, I guess? Which is, I guess, sort of all code is, but. It's like saying I speak my own conlang well. Yes, it has phonemes and grammatical structures I didn't invent but I didn't have to learn it.)</small>     
+<sup>(also, XML: which I also use at work, but I feel like XML is kind of cheater markup if you're the one defining the tags. Yes, I can follow my own rules in such a way that a computer knows the difference between two things, I guess? Which is, I guess, sort of all code is, but. It's like saying I speak my own conlang well. Yes, it has phonemes and grammatical structures I didn't invent but I didn't have to learn it.)</sup>     
   
 #### programming  
 - SQL ✔ just basics, but i have a shiny certificate and all that  
