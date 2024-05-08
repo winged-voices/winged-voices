@@ -34,8 +34,8 @@ To pay the rent I'm currently working freelance/contract as a (they don't usuall
 ### what I know (and want to know)
 <details><summary> pt 1:</summary> 
 
-### languages  
-#### markups  
+## languages  
+### markups  
 - Markdown ✔ (esp the Obsidian flavor, but I use it for my job, too, so)    
 - HTML and XHTML: ✔     
 	- legitimate question: does anyone even *use* XHTML? I remember when I was first learning web design the course instructor was very *this is the future* yeah nah     
@@ -50,7 +50,7 @@ To pay the rent I'm currently working freelance/contract as a (they don't usuall
 
 <sup>(also, XML: which I also use at work, but I feel like XML is kind of cheater markup if you're the one defining the tags. Yes, I can follow my own rules in such a way that a computer knows the difference between two things, I guess? Which is, I guess, sort of all code is, but. It's like saying I speak my own conlang well. Yes, it has phonemes and grammatical structures I didn't invent but I didn't have to learn it.)</sup>     
   
-#### programming  
+### programming  
 - SQL ✔ just basics, but i have a shiny certificate and all that  
 	- my household got into an es-cue-ell vs sequel argument (I say S Q L) before I even knew that was a thing and then we hit Wikipedia  
 	- I enjoy the reason it's historically referred to as "Sequel". I still say SQL.     
@@ -61,7 +61,7 @@ To pay the rent I'm currently working freelance/contract as a (they don't usuall
 		- (and also DQL and whatever other -QLs people choose to use; plus some Handlebar/Moustache/etc.  
 		- SQL made adapting to all other query languages pretty easy: do recommend)  
 
-#### uh, spoken?  (in which I'm being silly)   
+### uh, spoken?  (in which I'm being silly)   
 - ASL 📚 currently learning
 	- and would love love love anyone to sign with! HMU!   
 - English ✔ born into this bizarre language  
