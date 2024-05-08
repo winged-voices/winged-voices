@@ -18,10 +18,10 @@ I enjoy that Github really leans on MAKE A DAMN README and I love the open sourc
 ### more fun than that: 
 I also write 🖥, play ttrpgs 🎲 (and ~~tt~~rpgs📄), read a lot of articles📰... lose a lot of bookmarks📌...  
 I like to draw and make 3-D art but I've kind of accepted that I'm not great at it. Still, I do want to practice more.  
-I have ADHD that impressed the neuropsych examiner; also epilepsy and migraines, basically fυсκ[^1] my brain.  
+I have ADHD that impressed the neuropsych examiner; also epilepsy and migraines, basically fυсκ<sup>\*</sup> my brain.  
 
-[^1] I was trying to censor myself without censoring myself here, but never do this for any real length of time.  
-The unicode, I mean. Please don't do it for fancy display names and stuff. Screen readers can't figure it out, and it's not polite to use characters from other languages to look like English.
+**\*** <sub>I was trying to censor myself without censoring myself there, but never do that for any real length of time.  
+The unicode, I mean. Please don't do it for fancy display names and stuff. Screen readers can't figure it out, and it's not really...cool to use characters from other languages to look like English. I know literally everyone on earth does it. It's still not great.</sub>
 
 Ahem. One of my other passions is championing disability rights! In life, in code, and in writing/roleplay. 
 
